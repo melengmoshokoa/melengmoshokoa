@@ -19,6 +19,7 @@ Skills & Technologies
 What I’m Working On
 
     🎯 Project Name: Moviehub - Final year Capstone project
+    🎯 Creating a video on ssh Honeypot
     🛠️ Side Hustle: Creating an English website where learners can download free language worksheets 
 Fun Facts
 
