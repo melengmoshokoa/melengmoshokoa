@@ -11,7 +11,7 @@ I’m Itumeleng, a passionate developer with a love for solving complex problems
 
 Skills & Technologies
 
-    Languages: JavaScript, Python, Java.
+    Languages: JavaScript, Python, Java, C++.
     Frameworks: React Native, Node.js, Expo.
     Tools: Github, Firebase.
     Databases: Neo4J, SQL.
