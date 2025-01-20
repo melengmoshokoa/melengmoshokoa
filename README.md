@@ -20,7 +20,7 @@ What I’m Working On
 
     🎯 Project Name: Moviehub - Final year Capstone project
     🎯 Creating a video on ssh Honeypot / buffer overflow attacks
-    🛠️ Side Hustle: Creating a swift application for the swift challenge 
+    🛠️ Side Hustle: Creating a NEW portfolio 
 Fun Facts
 
     🧩 Problem Solver: I love brain teasers and algorithms.
