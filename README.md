@@ -12,14 +12,14 @@ I’m Itumeleng, a passionate developer with a love for solving complex problems
 Skills & Technologies
 
     Languages: JavaScript, Python, Java, C++.
-    Frameworks: React Native, Node.js, Expo.
+    Frameworks: React Native,React, Node.js, Expo., Flask
     Tools: Github, Firebase.
     Databases: Neo4J, SQL.
 
 What I’m Working On
 
-    🎯 Project Name: Moviehub - Final year Capstone project
-    🎯 Creating a video on ssh Honeypot / buffer overflow attacks
+    🎯 Project Name: PhishingCheck - Security Project
+    🎯 Comparing GP's with structure based GP's 
     🛠️ Side Hustle: Creating a NEW portfolio 
 Fun Facts
 
